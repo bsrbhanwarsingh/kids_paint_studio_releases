@@ -1,12 +1,13 @@
 # Kids Paint Studio - Latest Release 
  
-**Latest Version:** v1.0.80 
-**Released:** 14-01-2026 
+**Latest Version:** v1.0.81 
+**Released:** 15-01-2026 
  
 ## 📥 Download 
-[Download App (v1.0.80)](https://raw.githubusercontent.com/bsrbhanwarsingh/kids_paint_studio_releases/main/releases/app-1.0.80.apk) 
+[Download APK (v1.0.81)](https://raw.githubusercontent.com/bsrbhanwarsingh/kids_paint_studio_releases/main/releases/app-1.0.81.apk) 
  
 ## 📋 Release Notes 
-- 🚀 **Unified Upgrade**: Everyone is moving to version 1.0.70!
-- 🧹 **Automatic Cleanup**: Detecting and cleaning up old app versions to save space.
-- 🎨 **Enhanced Stability**: Smoother painting experience.
+- ✨ New Feature: 'Remove Template' option added! Now you can clear the template and draw freely.
+- � Bug Fix: Fixed "Spiderweb" issue where separate lines would sometimes connect together.
+- 🎨 Magic Fill: Fixed glitches when switching templates or clearing the canvas.
+- 🚀 Performance: Smoother drawing experience with optimized touch handling.
