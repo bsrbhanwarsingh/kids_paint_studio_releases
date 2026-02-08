@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.0.86",
-  "apkUrl": "https://raw.githubusercontent.com/bsrbhanwarsingh/kids_paint_studio_releases/main/releases/app-1.0.86.apk",
+  "latestVersion": "1.0.87",
+  "apkUrl": "https://raw.githubusercontent.com/bsrbhanwarsingh/kids_paint_studio_releases/main/releases/app-1.0.87.apk",
   "releaseNotes": "- 🎮 **New Game: Memory Match** Challenge your brain with 3 difficulty levels (Easy, Medium, Hard).",
   "downloadSize": "64.5 MB",
-  "releaseDate": "15-01-2026",
+  "releaseDate": "08-02-2026",
   "minimumVersion": "1.0.0",
   "forceUpdate": false
 }

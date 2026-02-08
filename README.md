@@ -1,10 +1,10 @@
 ﻿# Kids Paint Studio - Latest Release
 
-**Latest Version:** v1.0.86
-**Released:** 15-01-2026
+**Latest Version:** v1.0.87
+**Released:** 08-02-2026
 
 ## 📥 Download
-[Download APK (v1.0.86)](https://raw.githubusercontent.com/bsrbhanwarsingh/kids_paint_studio_releases/main/releases/app-1.0.86.apk)
+[Download APK (v1.0.87)](https://raw.githubusercontent.com/bsrbhanwarsingh/kids_paint_studio_releases/main/releases/app-1.0.87.apk)
 
 ## 📋 Release Notes
 - ðŸŽ® **New Game: Memory Match!** Challenge your brain with 3 difficulty levels (Easy, Medium, Hard).
